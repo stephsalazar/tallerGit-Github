@@ -11,3 +11,7 @@ Repo para practicar
 - los agrego al stage con git add . para todos los archivos o git add/ para un solo archivo
 
 
+# Cambios realizados por Cecilia Losada
+- sólo git add (nombre del archivo)
+## Cambios en Local
+Actualizado desde el local
